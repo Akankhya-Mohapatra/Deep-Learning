@@ -2,4 +2,4 @@
 
 •	Implemented a convolutional neural network for image classification on CIFAR-10 dataset
 •	Tune the hyperparameters and executing max pooling layer
-•	Used PyTorch to implement a recurrent neural network for sentiment analysis for text c
+•	Used PyTorch to implement a recurrent neural network for sentiment analysis
